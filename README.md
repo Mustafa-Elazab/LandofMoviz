@@ -1,4 +1,5 @@
-
+# Land Of Moviz
+A   Movie and Tv App built to demonstrate the use of modern android architecture component with MVVM Architecture
 ###  Project Features
 
 - Written in [Kotlin](https://kotlinlang.org/)
@@ -25,6 +26,10 @@
        -  Mark the movie-TV show as favorite by tapping the heart icon
    - View favorite movies-TV shows on the Favorites screen
   -  Offline support (if cached data is available)
+  
+  ### Architecture 
+This app uses [MVVM (Model View View-Model)](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
+![ANDROID ROOM DB DIAGRAM](https://user-images.githubusercontent.com/54749693/201472770-472030ec-ae90-41b4-97d1-e42cb3696fcc.jpg)
   
 ### Demo
 https://user-images.githubusercontent.com/54749693/201471890-d1eab1d7-e977-481d-9cf8-c3791e950067.mp4
