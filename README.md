@@ -29,7 +29,7 @@ A   Movie and Tv App built to demonstrate the use of modern android architecture
   
   ### Architecture 
 This app uses [MVVM (Model View View-Model)](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
-![ANDROID ROOM DB DIAGRAM](https://user-images.githubusercontent.com/54749693/201472770-472030ec-ae90-41b4-97d1-e42cb3696fcc.jpg)
+![clean arch](https://user-images.githubusercontent.com/54749693/201477289-bc3cadc5-1db2-448c-9079-3899747fcc7c.jpg)
   
 ### Demo
 https://user-images.githubusercontent.com/54749693/201471890-d1eab1d7-e977-481d-9cf8-c3791e950067.mp4
